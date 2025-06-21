@@ -1,0 +1,29 @@
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\bin\Debug\net9.0\Implementing Singleton.exe
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\bin\Debug\net9.0\Implementing Singleton.deps.json
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\bin\Debug\net9.0\Implementing Singleton.runtimeconfig.json
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\bin\Debug\net9.0\Implementing Singleton.dll
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\bin\Debug\net9.0\Implementing Singleton.pdb
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\Implementing Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\Implementing Singleton.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\Implementing Singleton.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\Implementing Singleton.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\Implementing Singleton.sourcelink.json
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\Implementing Singleton.dll
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\refint\Implementing Singleton.dll
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\Implementing Singleton.pdb
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\Implementing Singleton.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Learning program solutions\Learning-program-solutions\Week 1\Implementing Singleton\obj\Debug\net9.0\ref\Implementing Singleton.dll
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\bin\Debug\net9.0\Implementing Singleton.exe
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\bin\Debug\net9.0\Implementing Singleton.deps.json
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\bin\Debug\net9.0\Implementing Singleton.runtimeconfig.json
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\bin\Debug\net9.0\Implementing Singleton.dll
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\bin\Debug\net9.0\Implementing Singleton.pdb
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\obj\Debug\net9.0\Implementing Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\obj\Debug\net9.0\Implementing Singleton.AssemblyInfoInputs.cache
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\obj\Debug\net9.0\Implementing Singleton.AssemblyInfo.cs
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\obj\Debug\net9.0\Implementing Singleton.csproj.CoreCompileInputs.cache
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\obj\Debug\net9.0\Implementing Singleton.dll
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\obj\Debug\net9.0\refint\Implementing Singleton.dll
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\obj\Debug\net9.0\Implementing Singleton.pdb
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\obj\Debug\net9.0\Implementing Singleton.genruntimeconfig.cache
+C:\Users\peddi\OneDrive\Desktop\Dot-Net-FSE-Solvings-6386002\Week1\ImplementingSingleton\obj\Debug\net9.0\ref\Implementing Singleton.dll
